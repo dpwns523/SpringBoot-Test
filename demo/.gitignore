@@ -282,4 +282,7 @@ gradle-wrapper.jar
 # Java heap dump
 *.hprof
 
+# Querydsl
+/src/main/generated
+
 # End of https://www.toptal.com/developers/gitignore/api/intellij,intellij+all,intellij+iml,java
